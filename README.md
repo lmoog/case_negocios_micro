@@ -36,4 +36,4 @@ Além disso: quais segmentos respondem mais fortemente ao incentivo?
 
 - data/dataset_micro_case_delivery # dados utilizados no estudo (dados simulados)
 
--presentation/CASE_MICRO.pdf        # apresentação executiva com contexto, resultados e recomendações
+- presentation/CASE_MICRO.pdf        # apresentação executiva com contexto, resultados e recomendações
